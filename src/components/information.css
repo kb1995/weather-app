@@ -1,0 +1,22 @@
+.btn-secondary {
+    padding: 5px;
+    margin-left: 5px;
+    float: right;
+  }
+  
+  .list-group {
+    border: 4px solid brown;
+  }
+  
+  .list-group-item {
+    background-color: #F5F5DC;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: left;
+    border: none;
+  }
+
+  ul img {
+    display: block;
+    margin: 0 auto;
+  }
